@@ -1,0 +1,23 @@
+#popup-menu
+{
+  width: 100px;
+  background-color:#3c3b3b;
+  border-radius: 5px;
+  padding: 5px;
+  position: absolute;
+  height: auto;
+  align-content: center;
+}
+#popup-menuitem-searchwiki
+{
+  color:#bfbcbc;
+  width: 95%;
+  height: 20px;
+  margin: 2%;
+  cursor: pointer;
+  text-align: center;
+}
+#popup-menuitem-searchwiki:hover
+{
+  background-color: #5f5c5c;
+}
